@@ -1,0 +1,12 @@
+The slope when X is ICIC Bank and Y is HDFC Bank is 7.613638909228668
+The intercept when X is ICIC Bank and Y is HDFC Bank is -663.677052526715
+The standard error of residuals when X is ICIC Bank and Y is HDFC Bank is 152.66525529931187
+The standard error of intercepts when X is ICIC Bank and Y is HDFC Bank is 61.34411600117965
+The error ratio when X is ICIC Bank and Y is HDFC Bank is 0.40182106846059923
+
+The slope when X is HDFC Bank and Y is ICIC Bank is 0.09079726165408597
+The intercept when X is HDFC Bank and Y is ICIC Bank is 142.46776660426696
+The standard error of residuals when X is hdfc bank and Y is icic bank is 16.671721463711293
+The standard error of intercept when X is hdfc bank and Y is icic bank is 3.7978096965197277
+The error ratio when when X is hdfc bank and Y is icic bank is 0.22779949297895102
+
